@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, world!
 
-<!--
-**Eklerka25/Eklerka25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eklerka25
+Polish programmer who loves to do useless things. 
+My favorite languages ​​are C, C++ and JS
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eklerka25&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150">
+  <img src="https://streak-stats.demolab.com?user=Eklerka25&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=340&card_height=150" height="150">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my:
+- [Yotube channel](https://www.youtube.com/@eclair25)
+- [Discord server](https://discord.gg/ppPRB7TDeN)
