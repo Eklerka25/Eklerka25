@@ -9,5 +9,5 @@ My favorite languages ​​are C++ and C
 
 
 Check out my:
-- [Yotube channel](https://www.youtube.com/@eclair25)
+- [Youtube channel](https://www.youtube.com/@eclair25)
 - [Discord server](https://discord.gg/ppPRB7TDeN)
